@@ -4,3 +4,5 @@ welcome to this java world
 
 interface
 poly
+encap
+abstraction
